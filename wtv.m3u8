@@ -4,13 +4,13 @@ https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_M1/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="HD",Eurosport 4K
-https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K/bw6000000/variant.m3u8
 #EXTINF:-1 group-title="HD",Love Nature 4K
-https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K/bw6000000/variant.m3u8
 #EXTINF:-1 group-title="HD",Russian Extreme Ultra
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/bw6000000/variant.m3u8
 #EXTINF:-1 group-title="HD",Ultra HD Cinema
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/bw6000000/variant.m3u8
 #EXTINF:-1 group-title="HD",Глазами туриста 4К
 https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTA4K/bw6000000/variant.m3u8
 #EXTINF:-1 group-title="Общие",Домашний
